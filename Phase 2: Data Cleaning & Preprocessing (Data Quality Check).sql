@@ -1,7 +1,7 @@
-Phase 2: Data Cleaning & Preprocessing (Data Quality Check)
+/*Phase 2: Data Cleaning & Preprocessing (Data Quality Check)
 
 📌 Business Question: How do we ensure our data is clean and usable for analysis?
-📌 Stakeholder: Data Team (Ensuring accurate reporting & analysis)
+📌 Stakeholder: Data Team (Ensuring accurate reporting & analysis)*/
 
 -- 1. Capturing Duplicate Records in Listening Activity Table
 SELECT 
