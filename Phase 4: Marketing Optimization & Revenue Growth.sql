@@ -1,7 +1,7 @@
-Phase 4: Marketing Optimization & Revenue Growth (Marketing Team Request)
+/*Phase 4: Marketing Optimization & Revenue Growth (Marketing Team Request)
 
 📌Business Question: How can we maximize revenue and drive Free-to-Premium conversions by evaluating and optimizing marketing campaign performance and subscription plans?
-📌Stakeholder: Marketing & Growth Team (Focusing on user conversion, campaign effectiveness, and revenue optimization)
+📌Stakeholder: Marketing & Growth Team (Focusing on user conversion, campaign effectiveness, and revenue optimization)*/
 
 -- 1. Revenue Breakdown – Subscription Plans & Transaction Amounts
 SELECT 
