@@ -1,9 +1,12 @@
 # 🎧 Hubhopper SQL Project – User Engagement & Marketing Optimization
 
-### 📌Project Overview
-This project simulates a real-world role as a Junior Data Analyst at Hubhopper, where I analyzed user retention, engagement trends, churn analysis, revenue breakdown, and marketing performance using SQL and Databricks.
+### About Hubhopper
+Hubhopper is India’s leading **podcast hosting and distribution platform**, empowering creators to share their stories with millions of listeners worldwide. The platform offers both **Free and Premium subscriptions**, making it a go-to destination for diverse audio content.
 
-The goal of this project was to provide actionable insights to the Product and Marketing teams by addressing key business questions and challenges.
+### 📌Project Overview
+This project simulates a real-world role as a **Junior Data Analyst** at Hubhopper, where I analyzed **user retention, engagement trends, churn analysis, revenue breakdown, and marketing performance** using **SQL and Databricks.**
+
+The goal of this project was to provide actionable insights to the **Product and Marketing teams** by addressing key business questions and challenges.
 
 ### 🔍 Key Business Questions
 **User Retention:** How can we identify and retain Premium users at risk of downgrading to Free plans?  
@@ -25,6 +28,6 @@ Analyzed top genres and podcasts driving engagement and identified Free-to-Premi
 Evaluated subscription revenue contributions and the impact of marketing campaigns on conversions.
 
 ### 💻Tools & Techniques Used
-**SQL:** Joins, Window Functions, Common Table Expressions (CTEs), Aggregations, Subqueries
-**Databricks:** Executed SQL queries and managed data pipelines
-**Data Cleaning:** Handled duplicates and validated data
+**SQL:** Joins, Window Functions, Common Table Expressions (CTEs), Aggregations, Subqueries  
+**Databricks:** Executed SQL queries and managed data pipelines  
+**Data Cleaning:** Handled duplicates and validated data  
