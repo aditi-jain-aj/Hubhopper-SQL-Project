@@ -31,3 +31,5 @@ Evaluated subscription revenue contributions and the impact of marketing campaig
 **SQL:** Joins, Window Functions, Common Table Expressions (CTEs), Aggregations, Subqueries  
 **Databricks:** Executed SQL queries and managed data pipelines  
 **Data Cleaning:** Handled duplicates and validated data  
+
+# [PROJECT LINK](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2877586916243003/856576459659374/3523173740263009/latest.html)
