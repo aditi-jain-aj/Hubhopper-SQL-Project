@@ -1,7 +1,7 @@
-Phase 1: User Insights & Engagement (Product Team Request)
+/*Phase 1: User Insights & Engagement (Product Team Request)
  
   📌 Business Question: How many users do we have? How engaged are they?
-  📌 Stakeholder: Product Team (Understanding user behavior & platform engagement)
+  📌 Stakeholder: Product Team (Understanding user behavior & platform engagement)*/
 
 
 -- 1. Total Number of Users
