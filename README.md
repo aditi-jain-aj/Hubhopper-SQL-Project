@@ -8,6 +8,8 @@ This project simulates a real-world role as a **Junior Data Analyst** at Hubhopp
 
 The goal of this project was to provide actionable insights to the **Product and Marketing teams** by addressing key business questions and challenges.
 
+## [PROJECT LINK](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2877586916243003/856576459659374/3523173740263009/latest.html)
+
 ### 🔍 Key Business Questions
 **User Retention:** How can we identify and retain Premium users at risk of downgrading to Free plans?  
 **User Engagement:** Which genres and podcasts drive engagement among Free vs. Premium users?  
@@ -27,9 +29,8 @@ Analyzed top genres and podcasts driving engagement and identified Free-to-Premi
 **Phase 4:** Revenue & Marketing Campaign Analysis  
 Evaluated subscription revenue contributions and the impact of marketing campaigns on conversions.
 
+
 ### 💻Tools & Techniques Used
 **SQL:** Joins, Window Functions, Common Table Expressions (CTEs), Aggregations, Subqueries  
 **Databricks:** Executed SQL queries and managed data pipelines  
 **Data Cleaning:** Handled duplicates and validated data  
-
-# [PROJECT LINK](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2877586916243003/856576459659374/3523173740263009/latest.html)
