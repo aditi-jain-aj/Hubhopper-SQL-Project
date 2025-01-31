@@ -1,7 +1,7 @@
-Phase 3: User Engagement Insights & Behavior (Product Team Request)
+/*Phase 3: User Engagement Insights & Behavior (Product Team Request)
 
 📌 Business Question: How are users engaging with our platform? Which genres and podcasts drive the most engagement?
-📌 Stakeholder: Product & Content Team (Improving content strategy)
+📌 Stakeholder: Product & Content Team (Improving content strategy)*/
 
 -- 1. Top 5 Genres with Highest Engagement (Last 30 Days)
 WITH genre_data AS (
